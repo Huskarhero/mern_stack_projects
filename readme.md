@@ -1,4 +1,4 @@
-backend
+backend(Express.js) projects
 
 - intitialize and accept all the default settings
   npm init -y
